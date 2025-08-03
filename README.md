@@ -1,2 +1,2 @@
 # java-timer-app
-Different stop watch timer apps
+A simple java stop watch timer app.
