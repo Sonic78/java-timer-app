@@ -9,6 +9,7 @@ if %ERRORLEVEL% NEQ 0 (
 )
 
 echo Compilation successful!
+cd build
 echo Running Java Timer App...
 java TimerApp
 
